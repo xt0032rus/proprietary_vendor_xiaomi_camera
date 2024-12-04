@@ -21,7 +21,6 @@ PRODUCT_COPY_FILES += \
 TARGET_SYSTEM_PROP += vendor/xiaomi/camera/configs/properties/system.prop
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/camera/configs/properties/system_camera_fuxi.prop:$(TARGET_COPY_OUT_SYSTEM)/etc/build_camera_fuxi.prop \
-    vendor/xiaomi/camera/configs/properties/system_camera_ishtar.prop:$(TARGET_COPY_OUT_SYSTEM)/etc/build_camera_ishtar.prop \
     vendor/xiaomi/camera/configs/properties/system_camera_nuwa.prop:$(TARGET_COPY_OUT_SYSTEM)/etc/build_camera_nuwa.prop
 
 # Sepolicy

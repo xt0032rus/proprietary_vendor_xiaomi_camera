@@ -4,8 +4,6 @@ Prebuilt MIUI Camera to include in custom ROM builds.
 
 ### Supported devices
 * Xiaomi 13 (fuxi)
-* Xiaomi 13 Pro (nuwa)
-* Xiaomi 13 Ultra (ishtar)
 
 ### How to use?
 
